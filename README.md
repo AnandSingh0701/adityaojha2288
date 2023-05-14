@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kaviglobal.com/wp-content/uploads/2017/11/SAS-Visual-Analytics-banner.jpg)]
+![MasterHead](https://www.kaviglobal.com/wp-content/uploads/2017/11/SAS-Visual-Analytics-banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Robin Ojha</h1>
 <h3 align="center">3rd Year VIT Bhopal student and a passionate Data Analyst and</h3>
 
