@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://adityouh2288.github.io/Portfolio/](https://aditya ha2286.g_Chub. lo/Portfolio/)
-
 - 💬 Ask me about **SQL, Python, Java, Excel**
 
 - 📫 How to reach me **adityaojha6160@gmail.com**
