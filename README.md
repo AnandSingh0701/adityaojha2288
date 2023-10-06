@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://adityaojha2288.github.io/Portfolio/](https://adityaojha2288.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available are here
 
 - 💬 Ask me about **SQL, Python, Java, Excel**
 
-- 📫 How to reach me **adityaojha6160@gmail.com**
+- 📫 How to reach me **anand.singh2020@vitbhopal.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
