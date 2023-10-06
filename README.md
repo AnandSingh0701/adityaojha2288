@@ -1,5 +1,5 @@
 ![MasterHead](https://www.kaviglobal.com/wp-content/uploads/2017/11/SAS-Visual-Analytics-banner.jpg)
-<h1 align="center">Hi 👋, I'm Aditya Robin Ojha</h1>
+<h1 align="center">Hi 👋, I'm Anand Singh</h1>
 <h3 align="center">3rd Year VIT Bhopal student and a passionate Data Analyst and</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaojha2288&label=Profile%20views&color=0e75b6&style=flat" alt="adityaojha2288" /> </p>
